@@ -1,0 +1,30 @@
+[THREAD 2]
+/Users/hoshinohitoshi/develop/Clion_Workspace/PThreadSample/cmake-build-debug/PThreadSample
+Factors of 20000000000:140734724317591
+Process time : 157.44　seconds
+
+Process finished with exit code 0
+
+
+[THREAD 4]
+/Users/hoshinohitoshi/develop/Clion_Workspace/PThreadSample/cmake-build-debug/PThreadSample
+Factors of 20000000000:140734724317593
+Process time : 227.29　seconds
+
+Process finished with exit code 0
+
+
+[THREAD 8]
+/Users/hoshinohitoshi/develop/Clion_Workspace/PThreadSample/cmake-build-debug/PThreadSample
+Factors of 20000000000:4644334351688099
+Process time : 227.47　seconds
+
+Process finished with exit code 0
+
+
+[THREAD 16]
+/Users/hoshinohitoshi/develop/Clion_Workspace/PThreadSample/cmake-build-debug/PThreadSample
+Factors of 20000000000:18
+Process time : 228.80　seconds
+
+Process finished with exit code 0

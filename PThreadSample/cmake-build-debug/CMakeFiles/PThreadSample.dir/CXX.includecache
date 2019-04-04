@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hoshinohitoshi/develop/Clion_Workspace/PThreadSample/main.cpp
+pthread.h
+-
+unistd.h
+-
+inttypes.h
+-
+stdio.h
+-
+mm_malloc.h
+-
+time.h
+-
+
